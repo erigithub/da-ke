@@ -1830,9 +1830,17 @@ input, select, textarea {
 		 color: white;
 	 }
 
-	 .change3 {
-		 color: #3d4449;
-	 }
+	 .img-ab {
+	  position: relative;
+	  img {
+	  position: absolute;
+	  left: 0;
+	  right: 0;
+	  top: 0;
+	  bottom: 0;
+	  margin: auto;
+	  }
+	}
 
 	input[type="text"],
 	input[type="password"],
