@@ -1821,6 +1821,19 @@ input, select, textarea {
 		margin: 0 0 1em 0;
 	}
 
+	.change1 {
+		 color: #f56a6a;
+		 font-weight: bold;
+	 }
+
+	 .change2 {
+		 color: white;
+	 }
+
+	 .change3 {
+		 color: #3d4449;
+	 }
+
 	input[type="text"],
 	input[type="password"],
 	input[type="email"],
